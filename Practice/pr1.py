@@ -1,4 +1,4 @@
-string = "say hello broski its me"
+string = "say hello Alex"
 substring = "hello"
 
 start = string.find(substring)
