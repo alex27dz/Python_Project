@@ -1,3 +1,27 @@
-# Default ignored files
-/shelf/
-/workspace.xml
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# VS Code
+.vscode/
+
+# Test reports / logs
+reports/
+logs/
+allure-results/
+
+# OS files
+.DS_Store
+
+# Pytest cache
+.pytest_cache/
+
+# Playwright
+playwright-report/
+
+.idea/
