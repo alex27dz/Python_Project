@@ -1,0 +1,57 @@
+
+🧠 Core Practice Categories
+
+🔹 1. List & Index Handling
+Swap the first and last elements in a list
+https://www.geeksforgeeks.org/python-program-to-interchange-first-and-last-elements-in-a-list
+Find the second largest number in a list
+https://www.geeksforgeeks.org/python-program-to-find-second-largest-number-in-a-list
+Remove all even numbers from a list
+https://www.geeksforgeeks.org/python-program-to-print-odd-numbers-in-a-list
+
+🔹 2. Dictionary & Key Manipulation
+Replace spaces in dictionary keys with hyphens
+https://www.geeksforgeeks.org/python-remove-spaces-from-dictionary-keys
+Remove keys with None or empty values
+https://www.geeksforgeeks.org/python-remove-keys-with-none-values-in-dictionary
+Sort dictionary by values
+https://www.geeksforgeeks.org/python-sort-python-dictionaries-by-key-or-value
+
+🔹 3. String Logic & Cleanup
+Count character frequency in a string
+https://www.geeksforgeeks.org/python-count-occurrences-of-each-character-in-string
+Check if two strings are anagrams
+https://www.geeksforgeeks.org/python-check-if-two-strings-are-anagram-or-not
+Reverse words in a sentence
+https://www.geeksforgeeks.org/python-program-to-reverse-words-in-a-given-string
+
+🔹 4. Set & Uniqueness
+Get unique elements from a list
+https://www.geeksforgeeks.org/python-program-to-remove-duplicate-elements-from-the-list
+Find intersection of two lists
+https://www.geeksforgeeks.org/python-program-to-find-union-and-intersection-of-two-arrays
+
+🔹 5. Loops & Conditions
+FizzBuzz – print numbers 1 to 100 with rules
+https://www.geeksforgeeks.org/python-program-for-fizz-buzz
+Print all prime numbers between 1 and 100
+https://www.geeksforgeeks.org/python-program-to-print-all-prime-numbers-in-an-interval
+
+🔹 6. File & Input Parsing
+Count the number of lines in a file
+https://www.geeksforgeeks.org/count-number-of-lines-in-a-text-file-in-python
+Count occurrences of a word in a text file
+https://www.geeksforgeeks.org/python-program-to-count-the-occurrences-of-a-word-in-a-text-file
+
+🔹 7. Functions & Modularity
+Write a function to calculate factorial
+https://www.geeksforgeeks.org/python-program-to-find-the-factorial-of-a-number
+Check if a number is a palindrome
+https://www.geeksforgeeks.org/python-program-to-check-whether-a-number-is-palindrome-or-not
+
+🔹 8. Object-Oriented Basics
+Define a simple Person class in Python (see “Creating a class” section)
+https://www.geeksforgeeks.org/python-oops-concept
+Extend a class and override a method
+https://www.geeksforgeeks.org/inheritance-in-python
+
