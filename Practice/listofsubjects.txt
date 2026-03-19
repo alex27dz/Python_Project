@@ -1,0 +1,145 @@
+Python Fundamentals
+Python Data Types (int, float, str, bool, None)
+Variables & Assignment
+Operators (Arithmetic, Comparison, Logical)
+Conditionals (if / elif / else)
+Loops (for / while)
+Loop Tools (range(), enumerate())
+Truthiness & Membership (in, not in)
+Basic Input Validation Pattern
+Python String Manipulation
+String Indexing & Slicing
+String Length (len())
+Case Checks (isupper(), islower())
+Digit / Alpha Checks (isdigit(), isalpha(), isalnum())
+Whitespace Handling (strip(), lstrip(), rstrip())
+Search & Compare (find(), index(), startswith(), endswith())
+Replace & Translate (replace(), translate())
+Split & Join
+Count & Frequency
+String Formatting (f-strings, format())
+Lists
+Lists Core (create, index, slice)
+List Mutations (append, extend, insert, remove, pop)
+Sorting Lists
+Reverse Lists
+List Comprehensions
+Common List Patterns (two pointers, sliding window)
+Tuples
+Tuples (immutability, unpacking)
+Sets
+Sets (unique values, intersection, union)
+Dictionaries
+Dictionaries Core (create, access, update)
+Nested Dictionaries & Safe Access
+Dict Methods (keys, values, items, get, setdefault)
+Dict Comprehensions
+Python Functional Concepts
+Functions (def, return values)
+Function Parameters (positional / keyword / defaults)
+*args and **kwargs
+Lambda Functions
+Scope (local, global, nonlocal)
+Python Error Handling
+Exception Handling (try / except / finally)
+Raising Exceptions
+Custom Exceptions
+Python File & Data Handling
+File Handling (open, read, write)
+JSON Handling (json.load / json.dump)
+CSV Handling (csv module)
+Object Oriented Programming
+OOP Fundamentals (classes / objects)
+init and Instance Attributes
+Instance vs Class vs Static Methods
+Inheritance
+Polymorphism
+Encapsulation
+Properties (@property)
+Dunder Methods (str, repr)
+Advanced Python
+Iterators
+Generators
+Decorators
+Context Managers
+Algorithms & Coding Problems
+Algorithm Basics (Big-O)
+Sorting Algorithms
+Searching Algorithms
+String Coding Problems (anagram, palindrome, substring)
+List / Dictionary Coding Problems (two sum, frequency maps)
+
+SDLC
+PyTest Automation
+PyTest Basics (test discovery, assertions)
+PyTest Fixtures
+Parametrization
+PyTest Plugins (xdist, reports)
+Behave BDD
+Cucumber structure Give when Then
+Behave Basics (Gherkin syntax)
+Step Definitions
+Hooks (before_all, before_scenario)
+Automation Framework Architecture
+Automation Framework Structure
+Page Object Model (POM)
+Test Data Management
+Logging & Debugging
+Handling Flaky Tests
+Selenium Automation
+Selenium WebDriver Basics
+Selenium Locators (id, css, xpath)
+Selenium Waits (implicit / explicit waits)
+Handling iFrames
+Handling Alerts
+Handling Multiple Tabs
+File Upload & Download
+Cookies & Local Storage
+Playwright Automation
+Playwright Fundamentals
+Playwright Locators
+Playwright Auto-Wait Model
+Network Interception
+Browser Contexts
+API Testing
+HTTP Methods (GET, POST, PUT, PATCH, DELETE)
+HTTP Status Codes
+Headers
+Authentication (Bearer Token, OAuth, API Keys)
+Request / Response Validation
+JSON Schema Validation
+Pagination
+Rate Limiting
+API Testing with Python requests library
+Database Testing
+SQL Basics
+Joins (INNER / LEFT / RIGHT)
+Data Validation from Database
+Transactions & Data Integrity
+Performance Testing Concepts
+Load Testing
+k6 Performance Testing with JavaScript
+Types of Testing
+Unit Testing
+Integration Testing
+End-to-End Testing
+Functional Testing
+Non-Functional Testing
+Performance Testing
+Regression Testing
+Smoke Testing
+Sanity Testing
+Acceptance Testing (UAT)
+Manual Testing Fundamentals
+Test Strategy & QA Theory
+Test Reporting (Allure / HTML Reports / Cucumber)
+Parallel Test Execution (pytest-xdist)
+Design Patterns in Automation
+Page Object Model Pattern
+CI/CD Pipelines
+GitHub Actions
+Azure DevOps Pipelines
+What tests should be automated
+Handling flaky tests
+selectors / locators
+Java basics data structures methods classes
